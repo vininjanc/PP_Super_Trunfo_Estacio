@@ -15,7 +15,7 @@ int main(){
     /* Carta 1 */
 
     printf("\n--- Super Trunfo - Carta 1 ---\n");
-    
+
     printf("Digite a letra do estado (ex: A): ");
     scanf(" %c", &estado1);
     // O espaço antes de %c serve para limpar o buffer do teclado (enter anterior)
@@ -136,7 +136,7 @@ int main(){
     printf("Pontos Turísticos: %d\n", comparacaopontosturisticos);
     printf("Densidade Populacional: %d\n", comparacaodensidadepopulacional);
     printf("PIB per capita: %d\n", comparacaopibpercapita);
-    printf("Super Pode: %d\n", comparacaoSuperPoder);
+    printf("Super Poder: %d\n", comparacaoSuperPoder);
 
 return 0;
 }
