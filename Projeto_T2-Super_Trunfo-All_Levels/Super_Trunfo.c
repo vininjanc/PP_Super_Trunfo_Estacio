@@ -15,6 +15,7 @@ int main(){
     /* Carta 1 */
 
     printf("\n--- Super Trunfo - Carta 1 ---\n");
+    
     printf("Digite a letra do estado (ex: A): ");
     scanf(" %c", &estado1);
     // O espaço antes de %c serve para limpar o buffer do teclado (enter anterior)
@@ -52,6 +53,7 @@ int main(){
 
     /* Carta 2 */
     printf("\n--- Super Trunfo - Carta 2 ---\n");
+
     printf("Digite a letra do estado: ");
     scanf(" %c", &estado2);
 
