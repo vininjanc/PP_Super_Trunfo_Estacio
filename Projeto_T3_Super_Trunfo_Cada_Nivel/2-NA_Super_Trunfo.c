@@ -1,4 +1,4 @@
-//SuperTrunfoemC.c é um arquivo de código-fonte em C que faz parte de um projeto de nível NOVATO do curso de Ciências da Computação. Este projeto foi feito pelo aluno Vinícius Silva.
+//SuperTrunfoemC.c é um arquivo de código-fonte em C que faz parte de um projeto do curso de Ciências da Computação. Este projeto foi feito pelo aluno Vinícius Silva.
 
 #include <stdio.h>
 
